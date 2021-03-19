@@ -50,7 +50,7 @@ Models/
 - [Node](https://nodejs.org/en/download/) ^10.0.0
 - [npm](https://nodejs.org/en/download/package-manager/)
 
-notice,the API has been tested using the Postman application and it performs all the CRUD operations.
+notice, the API has been tested using the Postman application and it performs all the CRUD operations.
 
 ## API usage(PORT: 3000)
 ```terminal
