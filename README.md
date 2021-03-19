@@ -65,7 +65,7 @@ $ npm start      // run it locally
 ### Start
 
 ```terminal
-$ cd server   // go to server folder
+$ cd MERN-API   // go to server folder
 $ npm i       // npm install pacakges
 $ npm run dev // run it locally
 $ npm run build // this will build the server code to es5 js codes and generate a dist file
